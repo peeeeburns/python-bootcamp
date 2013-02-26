@@ -2,7 +2,6 @@
 #Date: Feb 26,2013
 #Author: Titus Brown
 
->>>>>>> dev
 import random, datetime
 import csv
 
