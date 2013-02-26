@@ -1,6 +1,7 @@
 #!~/anaconda/bin/python
-#herpderp derpa derp
-#Added a comment to the top to test git
+#Author: Titus Brown
+
+>>>>>>> dev
 import random, datetime
 import csv
 
